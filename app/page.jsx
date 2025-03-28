@@ -23,13 +23,13 @@ const Home = () => {
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Link href="https://drive.google.com/file/d/1VbbSNc-0P8U0yg-aJJgltlnP8FtNWB7x/view?usp=sharing" download>
+              <Link href="" download>
               <Button
                   variant="outline"
                   size="lg"
                   className="uppercase flex items-center gap-2"
               >
-                <span>Download Resume</span>
+                <span>Download Resume(Under Construction)</span>
                 <FiDownload className="text-xl"/>
               </Button>
                 </Link>
